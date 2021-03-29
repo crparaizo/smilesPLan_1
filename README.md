@@ -12,15 +12,14 @@
   <li>Carmen Benetti</li>
   <li>Lucas Machado</li>
 </ul>
-  
+ 
+ 
 <p> Para executar este projeto faça um git clone em uma pasta na sua máquina, logo em seguida acesse o arquivo "splash.html" dentro da pasta "html".
 Pronto, o prtótipo já pode ser usado!<p/>
 
-<h2>Descritivo de Tecnologias:<h2/>
+<h2>Descritivo – Tecnologias – Smiles Plan<h2/>
 
 <p>
-Descritivo – Tecnologias – Smiles Plan
-
 Protótipo
 Para o protótipo, com foco na usabilidade do aplicativo, foi utilizada principalmente a ferramentaa Android Studio, API 26, Oreo, Android 8.0.
 
